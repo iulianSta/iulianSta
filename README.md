@@ -5,7 +5,7 @@ moving :rocket: with my family :family: to Germany. :de:\
 :seedling: I’m currently a student and I'm learning web development at [**DCI Digital Career Institute**](https://www.digitalcareerinstitute.org).
 
 ## I'm currently learning: 📖
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=yellow&color=success) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=blue&color=success) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=success) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=red&color=success) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=blue&color=success)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=yellow&color=success) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=blue&color=success) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=success) ![](https://img.shields.io/badge/markup_language-HTML-informational?style=flat&logo=HTML5&logoColor=red&color=success) ![](https://img.shields.io/badge/style_sheet_language-CSS-informational?style=flat&logo=CSS3&logoColor=blue&color=success) ![](https://img.shields.io/badge/extension_language-SCSS_SASS-informational?style=flat&logo=Sass&logoColor=white&color=success)
 
 
 

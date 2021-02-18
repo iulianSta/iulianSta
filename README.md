@@ -4,8 +4,8 @@ moving :rocket: with my family :family: to Germany. :de:\
  :smile: Having the desire to learn to code I decided to give myself a chance to change my career.\
 :seedling: I’m currently a student and I'm learning web development at [**DCI Digital Career Institute**](https://www.digitalcareerinstitute.org).
 
-📖 ## I'm currently learning:\
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=blue-marine&color=success) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=blue&color=success)
+## I'm currently learning 📖:\
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=yellow&color=success) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=blue&color=success)
 
 
 

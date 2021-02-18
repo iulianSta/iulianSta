@@ -5,7 +5,7 @@ moving :rocket: with my family :family: to Germany. :de:\
 :seedling: I’m currently a student and I'm learning web development at [**DCI Digital Career Institute**](https://www.digitalcareerinstitute.org).
 
 📖 ## I'm currently learning:\
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LINUX>&logoColor=white&color=2bbc8a)\
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)\
 ![](https://img.shields.io/badge/<Editor>-<Visual_Studio_Code>-informational?style=flat&logo=<VISUAL_STUDIO_CODE>&logoColor=white&color=2bbc8a)
 
 

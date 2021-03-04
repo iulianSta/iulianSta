@@ -1,5 +1,5 @@
 ### Hi there, I'm Iulian Stan! 👋
-:clipboard: After 10 years of military :guardsman: career in the Romanian Army :fast_forward: I decided to change my lifestyle, 
+:clipboard: After 10 years of military career in the Romanian Army :fast_forward: I decided to change my lifestyle, 
 moving :rocket: with my family :family: to Germany. :de:\
  :smile: Having the desire to learn to code I decided to give myself a chance to change my career.\
 :seedling: I’m currently a student and I'm learning web development at [**DCI Digital Career Institute**](https://www.digitalcareerinstitute.org).

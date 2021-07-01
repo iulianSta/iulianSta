@@ -1,13 +1,27 @@
 ### Hi there, I'm Iulian Stan! 👋
-:clipboard: After 10 years of military career in the Romanian Army :fast_forward: I decided to change my lifestyle, 
-moving :rocket: with my family :family: to Germany. :de:\
- :smile: Having the desire to learn to code I decided to give myself a chance to change my career.\
-:seedling: I’m currently a student and I'm learning web development at [**DCI Digital Career Institute**](https://www.digitalcareerinstitute.org).
 
-## I'm currently learning: 📖
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=yellow&color=success) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=blue&color=success) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=success) ![](https://img.shields.io/badge/markup_language-HTML-informational?style=flat&logo=HTML5&logoColor=red&color=success) ![](https://img.shields.io/badge/style_sheet_language-CSS-informational?style=flat&logo=CSS3&logoColor=blue&color=success) ![](https://img.shields.io/badge/extension_language-SCSS_SASS-informational?style=flat&logo=Sass&logoColor=white&color=success)
+:clipboard: After 10 years of military career in the Romanian Army :fast_forward:\
+I decided to change my lifestyle, moving :rocket:  with my family :family: to Germany. :de:\
+ :smile: I've allways wanted to learn to code, so I decided to give
+myself a chance to change my career.\
+:seedling: I studied web development at [**DCI Digital Career Institute**](https://www.digitalcareerinstitute.org).
 
+## My knowlege 📖
+ 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=yellow&color=blueviolet) 
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=blue&color=blueviolet) 
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=blueviolet) 
+![](https://img.shields.io/badge/Markup_lang-HTML-informational?style=flat&logo=HTML5&logoColor=red&color=blueviolet) 
+![](https://img.shields.io/badge/Style_sheet_lang-CSS-informational?style=flat&logo=CSS3&logoColor=skyblue&color=blueviolet) 
+![](https://img.shields.io/badge/Css_extension_lang-SASS-informational?style=flat&logo=SASS&logoColor=violet&color=blueviolet)
+![](https://img.shields.io/badge/JavaScript_engine-Node.js-informational?style=flat&logo=Node.js&logoColor=green&color=blueviolet)
+![](https://img.shields.io/badge/JavaScript_library-React-informational?style=flat&logo=React&logoColor=aqua&color=blueviolet)
+![](https://img.shields.io/badge/Web_application_framework-Express-informational?style=flat&logo=Express&logoColor=black&color=blueviolet)
+![](https://img.shields.io/badge/NoSQL_database-mongoDB-informational?style=flat&logo=mongoDB&logoColor=green&color=blueviolet)
 
+## Visit my Portfolio
+
+![Iulian Stan's Portfolio](https://iuliansta.github.io/portfolio-react/)
 
 <!--
 **iulianSta/iulianSta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

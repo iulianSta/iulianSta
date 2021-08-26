@@ -23,6 +23,10 @@ myself a chance to change my career.\
 
 [Iulian Stan's Portfolio](http://portfolio-react-blond.vercel.app/)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iulianSta&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **iulianSta/iulianSta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

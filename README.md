@@ -13,6 +13,6 @@ I'm a passionate and skilled web designer with expertise in MERN stack developme
 
 🤝 **Let's Connect:**
 - Explore the possibilities of enhancing the digital landscape together!
-- [LinkedIn](https://www.linkedin.com/in/iulian-stan-46596b1bb/){:target="_blank"} | [Portfolio](https://www.julianstan.com){:target="_blank"}
+- - [LinkedIn](javascript:void(0);" onclick="window.open('https://www.linkedin.com/in/iulian-stan-46596b1bb/','_blank')) | [Portfolio](javascript:void(0);" onclick="window.open('https://www.julianstan.com','_blank'))
 
 Looking forward to connecting with fellow enthusiasts and professionals in the digital space! 😊
